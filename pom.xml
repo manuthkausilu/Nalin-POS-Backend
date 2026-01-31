@@ -73,7 +73,7 @@
             <artifactId>spring-security-test</artifactId>
             <scope>test</scope>
         </dependency>
-<!--         https://mvnrepository.com/artifact/io.jsonwebtoken/jjwt-jackson-->
+        <!--         https://mvnrepository.com/artifact/io.jsonwebtoken/jjwt-jackson-->
         <dependency>
             <groupId>io.jsonwebtoken</groupId>
             <artifactId>jjwt-jackson</artifactId>
